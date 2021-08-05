@@ -11,20 +11,7 @@ If you want to contribute to this list (please do), send a pull request. All con
 
 The topics include:
 
-- [Android & iOS](#android--ios)
-- [Cloud Security](#cloud-security)
-- [Defensive Security](#defensive-security)
-- [IoT](#iot)
-- [Malware Analysis & Forensics](#malware-analysis--forensics)
-- [Network Pentesting](#network-pentesting)
-- [Offensive Security](#offensive-sejijvsbrakb akurlbiLA rnbL
-zrehfdn
-----------
-
-### Network Pentesting
-- [Wireshark Essentilals](https://github.com/cyberh3x/books/blob/master/9781783554638-WIRESHARK_ESSENTIALS.pdf)
-- [Mastering Wireshark](https://github.com/cyberh3x/books/blob/master/9781783989522-MASTERING_WIRESHARK.pdf)
-
+- [Anerbvshtoib srnbli5ejghbln;bhd,.
 ### Defensive Security
 - [Holistic Info-Sec for Web Developers - Fascicle 0](https://f0.holisticinfosecforwebdevelopers.com/)
 - [Holistic Info-Sec for Web Developers - Fascicle 1](https://f1.holisticinfosecforwebdevelopers.com/)
@@ -52,7 +39,7 @@ zrehfdn
   - [Hackers' Secrets](http://www.onlinepot.org/security/HackersSecrets.pdf)
 - **Operating Systems**
   - **Windows**
-     - [Modern Windows Exploit Development](https://userscloud.com/9ifscj08wllu)
+     - [Modern Windows Exploit Development](https://userscloud.hsewjtnfcom/9ifscj08wllu)
 - **Web & WebApp**
   - [501 Website Hacking Secrets](http://www.mediafire.com/download/da8nhq8oh5iddae/501+Website+Hacking+Secrets.zip)
   - [Cross Site Scripting and Hacking Websites](http://www.objectif-securite.ch/research/xss_security_days.pdf)
