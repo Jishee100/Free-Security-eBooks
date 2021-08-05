@@ -17,14 +17,8 @@ The topics include:
 - [IoT](#iot)
 - [Malware Analysis & Forensics](#malware-analysis--forensics)
 - [Network Pentesting](#network-pentesting)
-- [Offensive Security](#offensive-security)
-- [Programming Languages](#programming-languages)
-- [Reverse Engineering](#reverse-engineering)
-- [SysAdmin](#sysadmin)
-- [Virus Botnet and Malware](#virus-botnet-and-malware)
-- [Wireless Network Pentesting](#wireless-network-pentesting)
-- [Misc](#misc)
-
+- [Offensive Security](#offensive-sejijvsbrakb akurlbiLA rnbL
+zrehfdn
 ----------
 
 ### Network Pentesting
